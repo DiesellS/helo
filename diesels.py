@@ -2,6 +2,8 @@ import random
 import socket
 import threading
 import os
+
+        time.sleep(1)
         print("=====> [0%] Loading.......")
         time.sleep(1)
         print("=====> [10%] Loading......")
